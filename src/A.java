@@ -10,8 +10,6 @@ public abstract class A {
         this.i = x;
     }
 
-    public void method(){
-        i = i * i;
-    }
+    public abstract void method();
 
 }
