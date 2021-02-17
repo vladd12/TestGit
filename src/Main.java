@@ -7,9 +7,6 @@ public class Main {
      * @version 1.0
      */
     public static void main(String[] argc) {
-
-
-
+        B obj = new B();
     }
-
 }
