@@ -8,4 +8,9 @@ public class B extends A {
         this.i = i;
     }
 
+    @Override
+    public void method() {
+        this.i = i * 5;
+    }
+
 }

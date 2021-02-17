@@ -8,5 +8,8 @@ public class Main {
      */
     public static void main(String[] argc) {
         B obj = new B();
+        obj.setI(2);
+        obj.method();
+        System.out.println(obj.getI());
     }
 }

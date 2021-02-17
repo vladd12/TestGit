@@ -1,6 +1,6 @@
 public abstract class A {
 
-    public int i;
+    protected int i;
 
     void A() {
         this.i = 0;
